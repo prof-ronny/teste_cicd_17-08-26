@@ -5,6 +5,6 @@ test('soma 2 + 3 igual a 5', () => {
 expect(math.add(2, 3)).toBe(5); 
 }); 
 
-test('subtracao 2 - 3 igual a -5', () => { 
-    expect(math.subtract(2, 3)).toBe(-5); 
+test('subtracao 2 - 3 igual a -1', () => { 
+    expect(math.subtract(2, 3)).toBe(-1); 
 }); 
